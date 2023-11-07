@@ -1,3 +1,7 @@
+# Motivation
+
+This project was created to learn how to extract useful information from HTML components and save it in Excel sheet.
+
 # About the Project 
 
 This project consists of python script to check vendor accounts which are on hold.
